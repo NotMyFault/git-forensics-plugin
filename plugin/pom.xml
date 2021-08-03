@@ -36,7 +36,7 @@
     <bootstrap5-api.version>5.0.2-1</bootstrap5-api.version>
 
     <git-plugin.version>4.8.2-rc4459.e1262e4f8ad4</git-plugin.version>
-    <git-client.version>3.6.0</git-client.version>
+    <git-client.version>3.9.0</git-client.version>
     <scm-api.version>2.6.4</scm-api.version>
     <credentials.version>2.5</credentials.version>
 
